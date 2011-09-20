@@ -1,0 +1,1 @@
+# Script which traverses through a directory structure finds the files that match a string, saves those files to another directory and writes the file paths to a text file
